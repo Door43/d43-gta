@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gta:home|Door43 (gta)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gta|d43-gta repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gta/archive/master.zip|d43-gta.zip]]
+
+**Recent Changes**
+{{changes>ns = gta}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gta|Ethnologue data]]
+
